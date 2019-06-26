@@ -1,0 +1,11 @@
+C:\Projects\Speeltuin\Countries\Countries\bin\Debug\netcoreapp2.2\Countries.deps.json
+C:\Projects\Speeltuin\Countries\Countries\bin\Debug\netcoreapp2.2\Countries.runtimeconfig.json
+C:\Projects\Speeltuin\Countries\Countries\bin\Debug\netcoreapp2.2\Countries.runtimeconfig.dev.json
+C:\Projects\Speeltuin\Countries\Countries\bin\Debug\netcoreapp2.2\Countries.dll
+C:\Projects\Speeltuin\Countries\Countries\bin\Debug\netcoreapp2.2\Countries.pdb
+C:\Projects\Speeltuin\Countries\Countries\obj\Debug\netcoreapp2.2\Countries.csproj.CoreCompileInputs.cache
+C:\Projects\Speeltuin\Countries\Countries\obj\Debug\netcoreapp2.2\Countries.AssemblyInfoInputs.cache
+C:\Projects\Speeltuin\Countries\Countries\obj\Debug\netcoreapp2.2\Countries.AssemblyInfo.cs
+C:\Projects\Speeltuin\Countries\Countries\obj\Debug\netcoreapp2.2\Countries.dll
+C:\Projects\Speeltuin\Countries\Countries\obj\Debug\netcoreapp2.2\Countries.pdb
+C:\Projects\Speeltuin\Countries\Countries\obj\Debug\netcoreapp2.2\Countries.csprojAssemblyReference.cache
